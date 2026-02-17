@@ -1,4 +1,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![](https://github-readme-stats.vercel.app/api?username=BenSLea&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BenSLea&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenSLea&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api?username=BenSLea&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>>
+<!--![](https://nirzak-streak-stats.vercel.app/?user=BenSLea&theme=dark&hide_border=false)<br/>>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenSLea&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)>
